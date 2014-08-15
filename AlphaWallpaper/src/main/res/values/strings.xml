@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Galaxy Alpha Wallpaper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="save">Save SdCard</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="rate">Rate</string>
+    <string name="more">More</string>
+    <string name="title">Exit Application ?</string>
+    <string name="content">Are you exit application?\nYou may want to try the game Choose Color.\nGame very very hard !!!</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
